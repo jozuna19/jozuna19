@@ -1,11 +1,23 @@
-# John Ozuna
+<!-- HERO BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=John%20Ozuna&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=building%20AI%20automations%20%C2%B7%20iOS%20apps%20%C2%B7%20developer%20tools&descSize=16&descAlignY=58" alt="John Ozuna" />
+</div>
 
-Building AI automations at **OxBlue** (a Hexagon company) &nbsp;·&nbsp; SWE student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
-AI agent systems, iOS apps, and developer tools. Atlanta, GA.
+<p align="center">
+  Building AI automations at <strong>OxBlue</strong> (a Hexagon company) &nbsp;·&nbsp; SWE student at <strong>Kennesaw State University</strong> &nbsp;·&nbsp; former <strong>Apple QA / Triage Engineering</strong> intern
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jozuna19&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/jozuna19?tab=followers"><img src="https://img.shields.io/github/followers/jozuna19?style=flat&color=7aa2f7&label=Followers" alt="Followers" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Atlanta-GA-7aa2f7?style=flat" alt="Atlanta, GA" />
+</p>
 
 ---
 
-## About
+## 📌 &nbsp; About
 
 - 🤖 &nbsp; Powerhouse of AI automation ideas on my Customer Success team at OxBlue. Repetitive admin workflows tend to land on my desk, and I turn them into Claude-powered skills.
 - 🎓 &nbsp; BS Software Engineering · Kennesaw State University
@@ -13,21 +25,23 @@ AI agent systems, iOS apps, and developer tools. Atlanta, GA.
 - 📱 &nbsp; Writing **Swift / SwiftUI** on the side
 - 🐛 &nbsp; I like debugging weird systems, building dev tooling, and turning manual workflows into automation
 
-## AI automation at OxBlue
+## 🛠️ &nbsp; AI automation at OxBlue
 
 I'm a CSM by title, but the work I'm most known for sits outside the job description. I've become the team's powerhouse of AI automation ideas. Every repetitive workflow our Customer Success org runs, I find a way to compress it from minutes of clicking into a single Claude skill.
 
 **Built so far** &nbsp;*(internal tools, not on GitHub)*
 
-- 🎥 &nbsp; **Camera operations:** VPTZ view creation, open-link generation, bulk camera assignment
-- 👤 &nbsp; **User provisioning:** scoped admin-panel user creation, bulk role assignment
-- 📧 &nbsp; **Triage automation:** offline-camera email triage with context-aware drafts
-- 🎫 &nbsp; **Workflow:** Jira ticket creation, note posting with compliance tagging, contract review
-- 🤖 &nbsp; **Personal:** **Rocky**, a Claude-based assistant that triages my inbox and maintains persistent workspace memory across sessions
+|     |     |
+| --- | --- |
+| 🎥 &nbsp; **Camera operations** | VPTZ view creation, open-link generation, bulk camera assignment |
+| 👤 &nbsp; **User provisioning** | scoped admin-panel user creation, bulk role assignment |
+| 📧 &nbsp; **Triage automation** | offline-camera email triage with context-aware drafts |
+| 🎫 &nbsp; **Workflow** | Jira ticket creation, note posting with compliance tagging, contract review |
+| 🤖 &nbsp; **Personal** | **Rocky**, a Claude-based assistant that triages my inbox and maintains persistent workspace memory |
 
 The pattern: **Claude skills + Chrome cookies + curl.** Authenticated API calls, no scraping, no UI manipulation. Five-minute click flows become one prompt.
 
-## Side projects
+## 💼 &nbsp; Side projects
 
 <table>
 <tr>
@@ -80,21 +94,51 @@ Chrome extension that strips Gmail signatures, logos, and UI noise so threads pa
 </tr>
 </table>
 
-## Stack
+## 🧰 &nbsp; Stack
 
-**Languages** &nbsp; Python &nbsp;·&nbsp; Swift &nbsp;·&nbsp; Java &nbsp;·&nbsp; C &nbsp;·&nbsp; JavaScript
-**Tools** &nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; VSCode &nbsp;·&nbsp; Xcode &nbsp;·&nbsp; Claude Code
-**AI / local models** &nbsp; Ollama &nbsp;·&nbsp; LM Studio &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Whisper
-**Automation** &nbsp; Claude Skills &nbsp;·&nbsp; curl &nbsp;·&nbsp; Chrome cookies (authenticated APIs)
-**Infra** &nbsp; Firebase &nbsp;·&nbsp; GitHub Actions
+<p align="center">
+  <sub><strong>Languages</strong></sub>
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="48" alt="Swift" title="Swift" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" title="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" title="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
+</p>
 
-## Goals · 2026
+<p align="center">
+  <sub><strong>Tools &amp; Infra</strong></sub>
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" height="42" alt="Xcode" title="Xcode" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="Firebase" title="Firebase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
+</p>
+
+<p align="center">
+  <sub><strong>AI / local models</strong> &nbsp; Ollama &nbsp;·&nbsp; LM Studio &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Whisper</sub>
+  <br />
+  <sub><strong>Automation</strong> &nbsp; Claude Skills &nbsp;·&nbsp; curl &nbsp;·&nbsp; Chrome cookies (authenticated APIs)</sub>
+</p>
+
+## 🎯 &nbsp; Goals · 2026
 
 - [ ] Ship an iOS app to TestFlight
 - [ ] Publish a Claude skill framework other teams can adopt
 - [ ] Land a software engineering role
 
-## Stats
+## 📊 &nbsp; Stats
 
 <div align="center">
 
@@ -104,6 +148,16 @@ Chrome extension that strips Gmail signatures, logos, and UI noise so threads pa
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jozuna19&theme=tokyo-night&hide_border=true&area=true&radius=8&height=240" alt="Contribution activity" />
+</div>
+
 ---
 
-<sub>📫 &nbsp;[john.ozuna01@gmail.com](mailto:john.ozuna01@gmail.com) &nbsp;·&nbsp; Atlanta, GA</sub>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer" alt="" />
+</div>
+
+<p align="center">
+  <sub>📫 &nbsp;<a href="mailto:john.ozuna01@gmail.com">john.ozuna01@gmail.com</a> &nbsp;·&nbsp; Atlanta, GA</sub>
+</p>

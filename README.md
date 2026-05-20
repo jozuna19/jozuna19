@@ -1,32 +1,32 @@
 # John Ozuna
 
-AI automation @ **OxBlue** (a Hexagon company) &nbsp;·&nbsp; CS student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
-Building AI agent systems, iOS apps, and developer tools in Atlanta, GA.
+Building AI automations at **OxBlue** (a Hexagon company) &nbsp;·&nbsp; CS student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
+AI agent systems, iOS apps, and developer tools. Atlanta, GA.
 
 ---
 
 ## About
 
-- 🤖 &nbsp; **Spearheading AI automation** for Customer Success at OxBlue — finding repetitive admin work on my team and turning it into one-shot Claude-powered skills
+- 🤖 &nbsp; **Powerhouse of AI automation ideas** on my Customer Success team at OxBlue. I'm the most technically minded person on the team, so I find repetitive admin workflows and turn them into one-shot Claude-powered skills.
 - 🎓 &nbsp; BS Computer Science · Kennesaw State University
-- 🍏 &nbsp; Previously interned on Apple's **QA / Triage Engineering** team — regression analysis tooling and test automation
+- 🍏 &nbsp; Previously interned on Apple's **QA / Triage Engineering** team. Built regression analysis tooling and test automation.
 - ⚙️ &nbsp; Currently building **OpenClaw**, a local multi-agent runtime I run on **Ollama** + **LM Studio**
 - 📱 &nbsp; Writing **Swift / SwiftUI** on the side
 - 🐛 &nbsp; I like debugging weird systems, building dev tooling, and turning manual workflows into automation
 
-## AI automation @ OxBlue
+## AI automation at OxBlue
 
-I'm a CSM by title, but the work I'm most known for sits outside the job description. I lead our team's AI automation push — every repetitive workflow our Customer Success org runs, I look for ways to compress it from minutes of clicking into a single Claude skill.
+I'm a CSM by title, but the work I'm most known for sits outside the job description. As the most technically minded person on my team, I've become the powerhouse of AI automation ideas for our Customer Success org. Every repetitive workflow we run, I find a way to compress it from minutes of clicking into a single Claude skill.
 
-**Built so far** &nbsp;*(internal — proprietary, not on GitHub)*
+**Built so far** &nbsp;*(internal tools, not on GitHub)*
 
-- 🎥 &nbsp; **Camera operations** — VPTZ view creation, open-link generation, bulk camera assignment
-- 👤 &nbsp; **User provisioning** — scoped admin-panel user creation, bulk role assignment
-- 📧 &nbsp; **Triage automation** — offline-camera ("blue light") email triage with context-aware drafts
-- 🎫 &nbsp; **Workflow** — Jira ticket creation, note posting w/ compliance tagging, contract review
-- 🤖 &nbsp; **Personal** — **Rocky**, a Claude-based assistant that triages my inbox and maintains a persistent workspace memory across sessions
+- 🎥 &nbsp; **Camera operations:** VPTZ view creation, open-link generation, bulk camera assignment
+- 👤 &nbsp; **User provisioning:** scoped admin-panel user creation, bulk role assignment
+- 📧 &nbsp; **Triage automation:** offline-camera email triage with context-aware drafts
+- 🎫 &nbsp; **Workflow:** Jira ticket creation, note posting with compliance tagging, contract review
+- 🤖 &nbsp; **Personal:** **Rocky**, a Claude-based assistant that triages my inbox and maintains persistent workspace memory across sessions
 
-The pattern: **Claude skills + Chrome cookies + curl** — authenticated API calls, no scraping, no UI manipulation. Five-minute click flows become one prompt.
+The pattern: **Claude skills + Chrome cookies + curl.** Authenticated API calls, no scraping, no UI manipulation. Five-minute click flows become one prompt.
 
 ## Side projects
 
@@ -35,7 +35,7 @@ The pattern: **Claude skills + Chrome cookies + curl** — authenticated API cal
 <td valign="top" width="50%">
 
 ### [PawDoctor](https://github.com/jozuna19/PawDoctor)
-AI pet-health triage. Analyzes photos + symptoms with LLM vision and structured prompting to return urgency guidance and a vet-prep summary.
+AI pet-health triage. Analyzes photos plus symptoms with LLM vision and structured prompting to return urgency guidance and a vet-prep summary.
 <sub>`Python` &nbsp;·&nbsp; `LLM vision` &nbsp;·&nbsp; `Anthropic`</sub>
 
 </td>
@@ -51,14 +51,14 @@ Transcribes meetings with **Whisper**, extracts structured action items with **C
 <td valign="top" width="50%">
 
 ### [learn-lamp](https://github.com/jozuna19/learn-lamp)
-Interactive LAMP-stack course — 35 lessons, an in-browser SQL engine (sql.js), a simulated Linux terminal, and Google sign-in with cloud progress sync.
+Interactive LAMP-stack course with 35 lessons, an in-browser SQL engine (sql.js), a simulated Linux terminal, and Google sign-in with cloud progress sync.
 <sub>`JavaScript` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; [**live**](https://learn-lamp.firebaseapp.com)</sub>
 
 </td>
 <td valign="top" width="50%">
 
 ### [learn-python](https://github.com/jozuna19/learn-python)
-Browser-based Python course — runnable code via Skulpt, 46 lessons, cloud progress sync.
+Browser-based Python course with runnable code via Skulpt. 46 lessons and cloud progress sync.
 <sub>`JavaScript` &nbsp;·&nbsp; `Skulpt` &nbsp;·&nbsp; [**live**](https://learn-python-385cc.firebaseapp.com)</sub>
 
 </td>
@@ -67,7 +67,7 @@ Browser-based Python course — runnable code via Skulpt, 46 lessons, cloud prog
 <td valign="top" width="50%">
 
 ### [HappyOso](https://github.com/jozuna19/HappyOso)
-iOS game starring my dog Oso (a Shih Tzu). Flappy Bird-style obstacle dodger built in pure **Swift / SwiftUI / Combine** — no third-party libraries.
+iOS game starring my dog Oso (a Shih Tzu). Flappy Bird-style obstacle dodger built in pure **Swift / SwiftUI / Combine**. No third-party libraries.
 <sub>`Swift` &nbsp;·&nbsp; `SwiftUI` &nbsp;·&nbsp; `Combine`</sub>
 
 </td>

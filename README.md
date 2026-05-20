@@ -1,22 +1,21 @@
 # John Ozuna
 
-Building AI automations at **OxBlue** (a Hexagon company) &nbsp;·&nbsp; CS student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
+Building AI automations at **OxBlue** (a Hexagon company) &nbsp;·&nbsp; SWE student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
 AI agent systems, iOS apps, and developer tools. Atlanta, GA.
 
 ---
 
 ## About
 
-- 🤖 &nbsp; **Powerhouse of AI automation ideas** on my Customer Success team at OxBlue. I'm the most technically minded person on the team, so I find repetitive admin workflows and turn them into one-shot Claude-powered skills.
-- 🎓 &nbsp; BS Computer Science · Kennesaw State University
+- 🤖 &nbsp; Powerhouse of AI automation ideas on my Customer Success team at OxBlue. Repetitive admin workflows tend to land on my desk, and I turn them into Claude-powered skills.
+- 🎓 &nbsp; BS Software Engineering · Kennesaw State University
 - 🍏 &nbsp; Previously interned on Apple's **QA / Triage Engineering** team. Built regression analysis tooling and test automation.
-- ⚙️ &nbsp; Currently building **OpenClaw**, a local multi-agent runtime I run on **Ollama** + **LM Studio**
 - 📱 &nbsp; Writing **Swift / SwiftUI** on the side
 - 🐛 &nbsp; I like debugging weird systems, building dev tooling, and turning manual workflows into automation
 
 ## AI automation at OxBlue
 
-I'm a CSM by title, but the work I'm most known for sits outside the job description. As the most technically minded person on my team, I've become the powerhouse of AI automation ideas for our Customer Success org. Every repetitive workflow we run, I find a way to compress it from minutes of clicking into a single Claude skill.
+I'm a CSM by title, but the work I'm most known for sits outside the job description. I've become the team's powerhouse of AI automation ideas. Every repetitive workflow our Customer Success org runs, I find a way to compress it from minutes of clicking into a single Claude skill.
 
 **Built so far** &nbsp;*(internal tools, not on GitHub)*
 
@@ -92,7 +91,6 @@ Chrome extension that strips Gmail signatures, logos, and UI noise so threads pa
 ## Goals · 2026
 
 - [ ] Ship an iOS app to TestFlight
-- [ ] Open-source **OpenClaw** with a usable multi-agent runtime
 - [ ] Publish a Claude skill framework other teams can adopt
 - [ ] Land a software engineering role
 

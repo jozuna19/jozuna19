@@ -1,19 +1,34 @@
 # John Ozuna
 
-CS student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
+AI automation @ **OxBlue** (a Hexagon company) &nbsp;·&nbsp; CS student at **Kennesaw State University** &nbsp;·&nbsp; former **Apple QA / Triage Engineering** intern
 Building AI agent systems, iOS apps, and developer tools in Atlanta, GA.
 
 ---
 
 ## About
 
+- 🤖 &nbsp; **Spearheading AI automation** for Customer Success at OxBlue — finding repetitive admin work on my team and turning it into one-shot Claude-powered skills
 - 🎓 &nbsp; BS Computer Science · Kennesaw State University
 - 🍏 &nbsp; Previously interned on Apple's **QA / Triage Engineering** team — regression analysis tooling and test automation
-- 🤖 &nbsp; Currently building **OpenClaw**, a local multi-agent runtime I run on **Ollama** + **LM Studio**
+- ⚙️ &nbsp; Currently building **OpenClaw**, a local multi-agent runtime I run on **Ollama** + **LM Studio**
 - 📱 &nbsp; Writing **Swift / SwiftUI** on the side
 - 🐛 &nbsp; I like debugging weird systems, building dev tooling, and turning manual workflows into automation
 
-## Current projects
+## AI automation @ OxBlue
+
+I'm a CSM by title, but the work I'm most known for sits outside the job description. I lead our team's AI automation push — every repetitive workflow our Customer Success org runs, I look for ways to compress it from minutes of clicking into a single Claude skill.
+
+**Built so far** &nbsp;*(internal — proprietary, not on GitHub)*
+
+- 🎥 &nbsp; **Camera operations** — VPTZ view creation, open-link generation, bulk camera assignment
+- 👤 &nbsp; **User provisioning** — scoped admin-panel user creation, bulk role assignment
+- 📧 &nbsp; **Triage automation** — offline-camera ("blue light") email triage with context-aware drafts
+- 🎫 &nbsp; **Workflow** — Jira ticket creation, note posting w/ compliance tagging, contract review
+- 🤖 &nbsp; **Personal** — **Rocky**, a Claude-based assistant that triages my inbox and maintains a persistent workspace memory across sessions
+
+The pattern: **Claude skills + Chrome cookies + curl** — authenticated API calls, no scraping, no UI manipulation. Five-minute click flows become one prompt.
+
+## Side projects
 
 <table>
 <tr>
@@ -69,15 +84,16 @@ Chrome extension that strips Gmail signatures, logos, and UI noise so threads pa
 ## Stack
 
 **Languages** &nbsp; Python &nbsp;·&nbsp; Swift &nbsp;·&nbsp; Java &nbsp;·&nbsp; C &nbsp;·&nbsp; JavaScript
-**Tools** &nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; VSCode &nbsp;·&nbsp; Xcode
+**Tools** &nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; VSCode &nbsp;·&nbsp; Xcode &nbsp;·&nbsp; Claude Code
 **AI / local models** &nbsp; Ollama &nbsp;·&nbsp; LM Studio &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Whisper
+**Automation** &nbsp; Claude Skills &nbsp;·&nbsp; curl &nbsp;·&nbsp; Chrome cookies (authenticated APIs)
 **Infra** &nbsp; Firebase &nbsp;·&nbsp; GitHub Actions
 
 ## Goals · 2026
 
 - [ ] Ship an iOS app to TestFlight
 - [ ] Open-source **OpenClaw** with a usable multi-agent runtime
-- [ ] Build one automation that replaces a real workflow at home or work
+- [ ] Publish a Claude skill framework other teams can adopt
 - [ ] Land a software engineering role
 
 ## Stats
